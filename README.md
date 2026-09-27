@@ -6,9 +6,15 @@
 
 ## Requisitos
 
-Rode este back-end de exemplo localmente:
+Rode **um** destes back-ends de exemplo localmente (portas diferentes — ajuste `backendUrl` no formulário pra combinar):
 
-- **Java**: [`exemplo-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-integracao-pdf-extend)
+- **Java** (porta 8097): [`exemplo-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-integracao-pdf-extend)
+- **C#** (porta 5094): [`exemplo-csharp-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-csharp-integracao-pdf-extend)
+- **JavaScript** (porta 8096): [`exemplo-javascript-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-javascript-integracao-pdf-extend)
+- **TypeScript** (porta 8096): [`exemplo-typescript-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-typescript-integracao-pdf-extend)
+- **Node.js** (porta 3096): [`exemplo-nodejs-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-nodejs-integracao-pdf-extend)
+- **PHP** (porta 8096): [`exemplo-php-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-php-integracao-pdf-extend)
+- **Python** (porta 8096): [`exemplo-python-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-python-integracao-pdf-extend)
 
 - Um token JWT válido (`POST /solidsign/auth/token`)
 
@@ -42,9 +48,15 @@ Abra `http://localhost:5173`, preencha o formulário e envie.
 
 ## Requirements
 
-Run this example backend locally:
+Run **one** of these example backends locally (different ports — adjust `backendUrl` in the form to match):
 
-- **Java**: [`exemplo-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-integracao-pdf-extend)
+- **Java** (port 8097): [`exemplo-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-integracao-pdf-extend)
+- **C#** (port 5094): [`exemplo-csharp-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-csharp-integracao-pdf-extend)
+- **JavaScript** (port 8096): [`exemplo-javascript-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-javascript-integracao-pdf-extend)
+- **TypeScript** (port 8096): [`exemplo-typescript-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-typescript-integracao-pdf-extend)
+- **Node.js** (port 3096): [`exemplo-nodejs-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-nodejs-integracao-pdf-extend)
+- **PHP** (port 8096): [`exemplo-php-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-php-integracao-pdf-extend)
+- **Python** (port 8096): [`exemplo-python-integracao-pdf-extend`](https://github.com/SolidTechSolutions/exemplo-python-integracao-pdf-extend)
 
 - A valid JWT token (`POST /solidsign/auth/token`)
 
